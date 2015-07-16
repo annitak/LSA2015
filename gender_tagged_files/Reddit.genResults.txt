@@ -1,0 +1,8 @@
+Total Names Examined: 10178
+Females Identified: 1124
+	Based on Lexicon: 1
+Males Identified: 3004
+	Based on Lexicon: 10
+Gender Ambiguous Names: 175
+Too Few Instances of Name: 720
+No Name to Examine: 5155
